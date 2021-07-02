@@ -20,7 +20,7 @@ Macro paradise is a plugin for several versions of Scala compilers.
 It is designed to reliably work with production releases of <code>scalac</code>,
 making latest macro developments available way before they end up in future versions Scala.
 Refer to the roadmap for [the list of supported features and versions](roadmap.html)
-and visit [the paradise announcement](https://scalamacros.org/news/2013/08/07/roadmap-for-macro-paradise.html)
+and visit [the paradise announcement](https://web.archive.org/web/20200223042508/https://scalamacros.org/news/2013/08/07/roadmap-for-macro-paradise.html)
 to learn more about our support guarantees.
 
     ~/210x $ scalac -Xplugin:paradise_*.jar -Xshow-phases
